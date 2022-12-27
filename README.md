@@ -35,9 +35,9 @@ I like learning about new technological trends, solving problems, optimizing res
 <h3>Text me :) </h3>
 📧 jgpoolpech@gmail.com
 <br>📱 +52 998 277 46 77
-<br>🌐 [My LinkedIn](https://www.linkedin.com/in/jazmin-pool-8a6a261a9/)
 <br>📍 Cancun, Mexico 🌴.
-<br>[JazminPoolEN.pdf](https://github.com/JazminPool/JazminPool/files/10305542/JazminPoolEN.pdf)
+<br>🌐 [My LinkedIn](https://www.linkedin.com/in/jazmin-pool-8a6a261a9/)
+<br>📄 CV [JazminPoolEN.pdf](https://github.com/JazminPool/JazminPool/files/10305542/JazminPoolEN.pdf)
 
 <!---
 JazminPool/JazminPool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
